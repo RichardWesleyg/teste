@@ -1,0 +1,73 @@
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 80px;
+	background-color: rgb(0,128,0);
+	height: 200px;
+	line-height: 200px;
+	border="50"
+}
+body{
+
+    background-image: url('https://png.pngtree.com/background/20210706/original/pngtree-food-background-picture-image_83391.jpg')
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+
+}
+
+
+p{
+	color: black;
+	text-align:;
+	font-size: 15px;
+	
+	font-family:;
+}
+
+
+
+ #rec{
+  color: black;
+	text-align:;
+	font-size: 15px;
+	color: white;
+	font-family:;
+}
+
+#receitas{
+	background-color:rgb(0,100,0);
+	color: white;	
+
+}
+#preparo{
+	background-color:rgb(0,100,0);
+	color: white;
+
+}
+#link{
+	background-color: rgb(0,128,0);
+	color:#DCDCDC;
+}
+
+#link2{
+
+    background-color: rgb(0,128,0);
+	color:white	
+}
+#escolha{
+	 background-color: rgb(0,128,0);
+	 color:white	
+}
+
+#escolha2{
+	 background-color: rgb(0,128,0);
+	 color:white
+}
+
+footer{
+     background-color: rgb(0,128,0);
+	 color:white
+
+
+}
